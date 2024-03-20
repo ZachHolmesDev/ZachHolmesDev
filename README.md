@@ -65,8 +65,9 @@
 
 ### My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zholmes430&layout=compact" alt="Languages Used">
-  <img src="https://github-readme-stats.vercel.app/api?username=zholmes430&show_icons=true" alt="GitHub Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zholmes430&layout=compact" alt="Languages Used"> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=zholmes430&show_icons=true" alt="GitHub Stats"> -->
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 </p>
 
 
