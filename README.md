@@ -13,12 +13,14 @@ I'm a passionate **Junior Developer and System Administrator** with a strong bac
 
 - ⚙️ **Experienced with**:
   - **Core Software Development**:
-    - **Programming Languages**: JavaScript/TypeScript, Python, Go
+    - **Programming Languages**: 
+      JavaScript/TypeScript, Python, Go
     - **Web Development**: Angular, React, HTML, CSS, Sass
     - **Backend Development**: Node.js, Express.js
     - **Databases** PostgreSQL, MySQL, MongoDB
   - **Version Control**: Git, GitHub, Bitbucket
   - **CI/CD**: Harness, GitHub Actions, Jenkins, Docker
+  - **Agile Workflow**: Participated in an Agile environment, including sprint planning, daily stand-ups, and retrospectives
   - **Cloud Platforms**: AWS
   - **Operating Systems Administration**: Linux and Windows both Server & Desktop, macOS
   - **Strong Linux Skills**: Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems
