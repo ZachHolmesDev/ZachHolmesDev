@@ -12,8 +12,8 @@
 
 ### About Me:
 
-🌱 **Currently Learning**: Go, AWS, C and React
-🔭 **Working On**: My final assignment at Coder Academy  
+🌱 **Currently Learning**: Go, AWS, C and React  
+🔭 **Working On**: Some Projects and improving my data structres and algorithms  
 👯 **Looking to Collaborate**: On business automation projects using Custom Code AWS Lamda or Low/No code, N8N, Zapier and other tools  
 💬 **Ask Me About**: Low Code (Zapier, N8N) VS custom code automations for business  
 📫 **Reach Me At**: [zholmes430@gmail.com](mailto:zholmes430@gmail.com)
@@ -68,7 +68,8 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zholmes430&layout=compact" alt="Languages Used"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=zholmes430&show_icons=true" alt="GitHub Stats"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&langs_count=8&theme=tokyonight"> -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&layout=compact&langs_count=8&theme=tokyonight">
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&layout=compact) -->
 </p>
 
 
