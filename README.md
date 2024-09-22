@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi, I'm Zach Holmes</h1>
-<h3 align="center">Aspiring Web Developer from Brisbane, Currently Head of IT and Process Development for an Accounting and Tax Business</h3>
+<h1 align="center">Hi, I'm Zach</h1>
+<h3 align="center">Junior Developer and Sys Admin at Canstar in Brisbane, also Head of IT and Process Development for an small Accounting and Tax Business</h3>
 
 <!--
 <p align="center">
@@ -12,10 +12,10 @@
 
 ### About Me:
 
-🌱 **Currently Learning**: MERN stack (MongoDB, Express, React, Node)  
+🌱 **Currently Learning**: Go, AWS, C and React
 🔭 **Working On**: My final assignment at Coder Academy  
-👯 **Looking to Collaborate**: On business automation projects using Zapier or other tools  
-💬 **Ask Me About**: Zapier automations for business, both simple and advanced zaps that might require custom code  
+👯 **Looking to Collaborate**: On business automation projects using Custom Code AWS Lamda or Low/No code, N8N, Zapier and other tools  
+💬 **Ask Me About**: Low Code (Zapier, N8N) VS custom code automations for business  
 📫 **Reach Me At**: [zholmes430@gmail.com](mailto:zholmes430@gmail.com)
 
 🔗 **Connect with Me**:  
@@ -67,22 +67,9 @@
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zholmes430&layout=compact" alt="Languages Used"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=zholmes430&show_icons=true" alt="GitHub Stats"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&langs_count=8&theme=tokyonight">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&langs_count=8&theme=tokyonight"> -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&layout=compact)
 </p>
 
 
 
-<!--
-**zholmes430/zholmes430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
