@@ -41,7 +41,6 @@ I'm a passionate **Junior Full Stack Developer and System Administrator** with a
 - **Operating Systems Administration**: Linux and Windows both Server & Desktop, macOS
 - **Strong Linux Skills**: Extensive experience in **server** management and desktop dev using **Ubuntu/Debian** and **RHEL** systems
 
----
 
 ## 🌱 **Currently Learning & Improving On**
 
