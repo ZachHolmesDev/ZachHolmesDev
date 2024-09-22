@@ -39,7 +39,7 @@ I'm a passionate **Junior Full Stack Developer and System Administrator** with a
 - **Agile Workflow**: Participated in an Agile environment, including sprint planning, daily stand-ups, and retrospectives
 - **Cloud Platforms**: AWS
 - **Operating Systems Administration**: Linux and Windows both Server & Desktop, macOS
-- **Strong Linux Skills**: Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems
+- **Strong Linux Skills**: Extensive experience in **server** management and desktop dev using **Ubuntu/Debian** and **RHEL** systems
 
 - 🌱 **Currently Learning & Improving**:
   - Enhancing my knowledge of cloud, front-end tech and data structures and algorithms, 
