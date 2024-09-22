@@ -67,7 +67,7 @@
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zholmes430&layout=compact" alt="Languages Used"> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=zholmes430&show_icons=true" alt="GitHub Stats"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&langs_count=5&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&langs_count=8&theme=tokyonight">
 </p>
 
 
