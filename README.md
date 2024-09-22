@@ -26,7 +26,7 @@ I'm a passionate **Junior Full Stack Developer and System Administrator** with a
 - **Low-Code Solutions**: Leveraged **Zapier** and **N8N** to create automated workflows
 - **Technical Support**: Provided training and support to staff on new technologies and processes
 
-## ⚙️ Experienced with:
+## ⚙️ Experienced with
 
 - **Core Software Development**:
   - **Programming Languages**: 
@@ -41,8 +41,11 @@ I'm a passionate **Junior Full Stack Developer and System Administrator** with a
 - **Operating Systems Administration**: Linux and Windows both Server & Desktop, macOS
 - **Strong Linux Skills**: Extensive experience in **server** management and desktop dev using **Ubuntu/Debian** and **RHEL** systems
 
-- 🌱 **Currently Learning & Improving**:
-  - Enhancing my knowledge of cloud, front-end tech and data structures and algorithms, 
+---
+
+## 🌱 **Currently Learning & Improving On**
+
+- Enhancing my knowledge of cloud, front-end tech and data structures and algorithms, 
   - **Languages**: Go, C#, .NET
   - **Technologies**: AWS, React
 
