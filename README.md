@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Junior Full Stack Developer and System Administrator** with a strong background in front-end and back-end development, Linux systems, and automation. I thrive on solving real problems and making a difference to my team, continuously seeking opportunities to learn and grow.
+I'm a passionate **Junior Full Stack Developer and System Administrator** with a strong background in front and back development, Linux systems, and automation. I thrive on solving real problems and making a difference to my team, continuously seeking opportunities to learn and grow.
 
 ## 💼 Professional Experience
 
