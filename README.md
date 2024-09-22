@@ -48,34 +48,27 @@ I'm a passionate **Junior Full Stack Developer and System Administrator** with a
   - **Languages**: Go, C#, .NET
   - **Technologies**: AWS, React
 
+## 📫 **How to Reach Me**:
+I'm always open to discussing new opportunities or collaborations. Feel free to reach out or connect with me on LinkedIn or via email below
+  - LinkedIn: [Zach Holmes](https://www.linkedin.com/in/zach-holmes-60042a181/)
+  - Email: [zholmes430@gmail.com](mailto:zholmes430@gmail.com)
+
 - 💬 **Ask Me About or Collaborate With Me**:
   - Saving time and money by automating business processes using your current tools through low-code (Zapier, N8N) vs. custom code solutions
 
-- 📫 **How to Reach Me**:
-  - Email: [zholmes430@gmail.com](mailto:zholmes430@gmail.com)
-  - LinkedIn: [Zach Holmes](https://www.linkedin.com/in/zach-holmes-60042a181/)
-
----
-
-## 🛠️ Other Skills & Tools
+### 🛠️ Other Skills & Tools
 
 - **Automation**: Zapier, N8N, Docker
 - **Project Management**: Jira (including automation workflows)
 - **Design**: Figma
 - **Security Tools**: Qualys, CrowdStrike
 
----
 
+<!--   
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&hide=css,html,scss&exclude_repo=complete-intro-to-sql,angular-fundamentals-lessons,kata-machine&theme=onedark" alt="Top Languages">
-</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachholmesdev&hide=css,html,scss&exclude_repo=complete-intro-to-sql,angular-fundamentals-lessons,kata-machine&theme=onedark" alt="Top Languages">
+  </p>
+-->
 
----
-
-## 📞 Let's Connect
-
-I'm always open to discussing new opportunities or collaborations. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/zach-holmes-60042a181/).
-
----
