@@ -5,100 +5,65 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Junior Developer and System Administrator** with a strong background in Front and Backend development, Linux systems and automation. I thrive on solving real problems and making a difference to my team, i'm continuously seeking opportunities to learn and grow.
+I'm a passionate **Junior Developer and System Administrator** with a strong background in front-end and back-end development, Linux systems, and automation. I thrive on solving real problems and making a difference to my team, continuously seeking opportunities to learn and grow.
 
 - 💼 **Current Roles**:
   - **Junior Full Stack Developer & SysAdmin at Canstar**
-  - **Head of IT and Process Development** at a small Accounting and Tax Business
+  - **Head of IT and Process Development at a Small Accounting and Tax Business**
 
 - ⚙️ **Experienced with**:
-  - **Core Front and Backend Development**:
-    - **Programming Languages**: JavaScript/TypeScript, Python and Go
+  - **Core Software Development**:
+    - **Programming Languages**: JavaScript/TypeScript, Python, Go
     - **Web Development**: Angular, React, HTML, CSS, Sass
-  - **Version Control & CI/CD Tools**: Git, GitHub, Bitbucket, Harness, Jira, and CI/CD pipelines
-  - **Strong Linux Skills** Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems.
+    - **Backend Development**: Node.js, Express.js
+    - **Databases** PostgreSQL, MySQL, MongoDB
+  - **Version Control**: Git, GitHub, Bitbucket
+  - **CI/CD**: Harness, GitHub Actions, Jenkins, Docker
+  - **Cloud Platforms**: AWS
+  - **Operating Systems Administration**: Linux and Windows both Server & Desktop, macOS
+  - **Strong Linux Skills**: Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems
 
-- 🌱 **Currently Learning & improving**:
-  - **Languages**: Go, C
+- 🌱 **Currently Learning & Improving**:
+  - Enhancing my knowledge of cloud, front-end tech and data structures and algorithms, 
+  - **Languages**: Go, C#, .NET
   - **Technologies**: AWS, React
 
-- 🔭 **Working On**:
-  - Enhancing my core knowledge of cloud, data structures, algorithms and front end technologies 
-- 👯 **Looking to Collaborate On**:
-  - Business automation projects using custom code (AWS Lambda) or low/no-code tools like N8N and Zapier
-- 💬 **Ask Me About**:
-  - Saving time and money by automating buisness processes through Low-code (Zapier, N8N) vs. Custom code automations
+- 💬 **Ask Me About or Collaborate With Me**:
+  - Saving time and money by automating business processes using your current tools through low-code (Zapier, N8N) vs. custom code solutions
 
 - 📫 **How to Reach Me**:
   - Email: [zholmes430@gmail.com](mailto:zholmes430@gmail.com)
   - LinkedIn: [Zach Holmes](https://www.linkedin.com/in/zach-holmes-60042a181/)
 
-<!---
 ---
 
-## 🚀 Projects
+## 🛠️ Other Skills & Tools
 
-### [Project 1](#)
-*A brief description of the project, your role, the technologies used, and the impact or results.*
-
-### [Project 2](#)
-*A brief description showcasing different skills or technologies.*
-
--->
----
-
-## 🛠️ Skills & Tools
-
-### **Languages**
-
-- **Programming**: JavaScript/TypeScript, Python and Go
-- **Web Development**: Angular, React, HTML, CSS, Sass
-
-### **Frameworks & Libraries**
-
-- **Frontend**: React
-- **Backend**: Node.js, Express.js
-
-### **Databases**
-
-- PostgreSQL, MySQL, MongoDB
-
-### **DevOps & Infrastructure**
-
-- **Operating Systems**: Linux (Ubuntu, Debian, RHEL), Windows desktop and server, MacOS
-- **Version Control**: Git, Bitbucket, Github
-- **CI/CD**: Harness & Github Actions pipelines, Docker
-- **Cloud Platforms**: AWS 
-
-### **Automation Tools**
-
-- Zapier, N8N, Docker
-
-### **Project Management & Design**
-
-- Jira, Figma
+- **Automation**: Zapier, N8N, Docker
+- **Project Management**: Jira (including automation workflows)
+- **Design**: Figma
+- **Security Tools**: Qualys, CrowdStrike
 
 ---
 
 ## 💼 Professional Experience
 
-### **Junior Full-Stack Developer & SysAdmin at Canstar**
+### **Junior Full Stack Developer & SysAdmin at Canstar**
 
-- **Full-Stack Development**: Developed and maintained web applications using **Angular** and **Express.js** with **PostgreSQL**
-- **Agile Workflow**: Actively participated in Agile work enviroment, including sprint planning, daily stand-ups, and retrospectives.
-- **CI/CD Pipelines**: Used **Harness** and other tools such as **Jenkins** to streamline and automate testing/deployment processes.
-- **Jira Automation Design and Maintenance**: Designed and maintained **Jira** automation workflows to streamline project management and improve team productivity.
-- **Windows Server & Active Directory Administration**: Managed and configured **Windows servers & Active Directory** to ensure optimal security, performance and reliability.
-- **Vulnerability Management**: Use of Qualys & Crowdstrike to monitor and prioritise vulnerabilitys and applly patches to maintain system integrity and compliance.
-- **Collaboration**: Worked closely with cross-functional teams including devops, infrastructure, development and managment to deliver high-quality software solutions on time.
+- **Full-Stack Development**: Developed and maintained web applications using **Angular**, **Express.js**, and **PostgreSQL**
+- **Agile Workflow**: Participated in an Agile environment, including sprint planning, daily stand-ups, and retrospectives
+- **CI/CD Pipelines**: Streamlined and automated testing/deployment processes using **Harness** and **Jenkins**
+- **Jira Automation**: Designed and maintained **Jira** automation workflows to improve team productivity
+- **Windows Server & Active Directory**: Managed and configured **Windows Servers** and **Active Directory** for optimal security and performance
+- **Vulnerability Management**: Utilized **Qualys** and **CrowdStrike** to monitor and prioritize vulnerabilities, applying patches to maintain system integrity and compliance
+- **Collaboration**: Worked closely with cross-functional teams—including DevOps, Infrastructure, Development, and Management—to deliver high-quality software solutions on time
 
 ### **Head of IT and Process Development at Accounting and Tax Business**
 
-- **IT Leadership**: Directed IT strategies to enhance system performance and security.
-- **Process Improvement**: Streamlined business processes through automation, reducing manual workload by significant hours per week.
-- **Low-Code Solutions**: Leveraged **Zapier** and **N8N** to create automated workflows.
-- **Technical Support**: Provided training and support to staff on new technologies and processes.
-
+- **IT Leadership**: Directed IT strategies to enhance system performance and security
+- **Process Improvement**: Automated business processes, reducing manual workload significantly
+- **Low-Code Solutions**: Leveraged **Zapier** and **N8N** to create automated workflows
+- **Technical Support**: Provided training and support to staff on new technologies and processes
 
 ---
 
@@ -115,4 +80,3 @@ I'm a passionate **Junior Developer and System Administrator** with a strong bac
 I'm always open to discussing new opportunities or collaborations. Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/zach-holmes-60042a181/).
 
 ---
-
