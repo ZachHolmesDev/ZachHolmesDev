@@ -11,23 +11,21 @@ I'm a passionate **Junior Developer and System Administrator** with a strong bac
   - **Junior Full Stack Developer & SysAdmin at Canstar**
   - **Head of IT and Process Development** at a small Accounting and Tax Business
 
-- 🖥️ **Strong Linux Skills**:
-  - Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems.
-
 - ⚙️ **Experienced with**:
-  - **Version Control & Collaboration**: Git, GitHub, Bitbucket
-  - **CI/CD Tools**: Harness, Jira, and CI/CD pipelines
+  - **Core Front and Backend Development**:
+    - **Programming Languages**: JavaScript/TypeScript, Python and Go
+    - **Web Development**: Angular, React, HTML, CSS, Sass
+  - **Version Control & CI/CD Tools**: Git, GitHub, Bitbucket, Harness, Jira, and CI/CD pipelines
+  - **Strong Linux Skills** Extensive experience in desktop development and server management on **Ubuntu/Debian** and **RHEL** systems.
 
-- 🌱 **Currently Learning**:
+- 🌱 **Currently Learning & improving**:
   - **Languages**: Go, C
   - **Technologies**: AWS, React
 
 - 🔭 **Working On**:
   - Enhancing my core knowledge of cloud, data structures, algorithms and front end technologies 
-
 - 👯 **Looking to Collaborate On**:
   - Business automation projects using custom code (AWS Lambda) or low/no-code tools like N8N and Zapier
-
 - 💬 **Ask Me About**:
   - Saving time and money by automating buisness processes through Low-code (Zapier, N8N) vs. Custom code automations
 
