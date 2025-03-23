@@ -9,9 +9,6 @@ Currently learning cloud architecture, Go, Astro and Hack The Box.
 
 ## 💼 Professional Experience
 
-
-## 🧩 My Experience in Action
-
 ### Junior Full Stack Developer & SysAdmin @ Canstar
 - Engineered full-stack applications with Angular, Node.js (Express), GraphQL and PostgreSQL.
 - Worked with CI/CD pipelines using Harness and Jenkins.
